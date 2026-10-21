@@ -1,0 +1,5 @@
+# 本项目只依赖 Python 标准库（sqlite3 / csv / decimal / datetime）
+# 无需安装任何第三方包。
+#
+# 运行环境：Python 3.9+
+# 数据库：SQLite 3.35+（窗口函数需要 3.25+）
